@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey, I'm Ajay S! 👋
 
-<!--
-**Ajay552/Ajay552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer with over 3 years of experience crafting end-to-end solutions across frontend and backend. I thrive on building scalable, high-performance systems and delivering seamless user experiences. Proficient in React, Django, and NestJS, I specialize in full-stack development, cloud deployment with AWS, and optimizing application performance.
 
-Here are some ideas to get you started:
+🌟 What I Do
+I design and develop robust web and mobile applications, leveraging modern frameworks and cloud technologies. From architecting scalable backend APIs to creating responsive frontends, I focus on clean code, maintainability, and user-centric design. I’m passionate about solving complex problems and automating processes to make development smoother and faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+Programming Languages: JavaScript, TypeScript, Python, Go
+
+Backend Development: Django, NestJS, PostgreSQL, Redis, BullMQ, Celery, OAuth 2.0, TypeORM, Firebase
+
+Frontend Development: React, Redux, HTML, CSS, SCSS, Tailwind CSS, Ionic, Jest, Enzyme
+
+Cloud & DevOps: Docker, AWS (EC2, S3, RDS), Digital Ocean, GitHub Actions, Git
